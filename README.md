@@ -1,4 +1,4 @@
-<h1>Hello world!<h1>
+<h1>Hello world!<h1\>
 
 - 👋 Hi, I’m @lunazea
 - 👀 I’m interested in computers and cycling
