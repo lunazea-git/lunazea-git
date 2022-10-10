@@ -1,7 +1,7 @@
 <h1>Hello world!</h1>
 
 - 👋 Hi, I’m @lunazea
-- 👀 I’m interested in computers and cycling
+- 👀 I’m interested in computers and programming 
 - 🌱 I’m currently learning c++ and bash
 
 
