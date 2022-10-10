@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @lunazea
 - 👀 I’m interested in computers and programming 
-- 🌱 I’m currently learning c++ and bash
+- 🌱 I’m currently learning c and c++
 
 
 
