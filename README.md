@@ -7,8 +7,11 @@ my name is Michal and I come from Poland 🇵🇱
 <h1>languages I know are:</h1>
 
 ⚙️C++
+
 ⚙️JavaScript
+
 ⚙️php
+
 ⚙️bash
 
 <h1>systems I can administer:</h1>
