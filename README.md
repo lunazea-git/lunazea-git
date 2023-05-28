@@ -17,6 +17,7 @@ my name is Michal and I come from Poland 🇵🇱
 <h1>systems I can administer:</h1>
 
 ⚙️Linux {best based on debian}
+
 ⚙️Windows {consumer version} and to a lesser extent windows server
 
 <h1>other capabilities:</h1>
