@@ -31,7 +31,9 @@ my name is Michal and I come from Poland 🇵🇱
 
 <h1>you can contact me through:</h1>
 
-🗺️ telegram:https://t.me/lunazea
+🗺️ telegram [❗️preferred❗️]:https://t.me/lunazea
+🗺️ discord:lunazea#5017
+🗺️ email:lunazea@protonmail.com
 
 <br></br>
 <p align="left">
