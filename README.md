@@ -35,7 +35,7 @@ my name is Michal and I come from Poland 🇵🇱
 
 <br></br>
 <br></br>
-<br></br>
+
 <p align="left">
 </p>
 
