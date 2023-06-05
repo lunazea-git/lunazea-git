@@ -33,7 +33,7 @@ my name is Michal and I come from Poland 🇵🇱
 
 🗺️ telegram:https://t.me/lunazea
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
