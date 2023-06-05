@@ -37,7 +37,7 @@ my name is Michal and I come from Poland 🇵🇱
 
 🗺️ email:lunazea@protonmail.com
 
-<br></br>
+
 <p align="left">
 </p>
 
