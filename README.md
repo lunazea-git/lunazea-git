@@ -35,9 +35,6 @@ my name is Michal and I come from Poland 🇵🇱
 
 🗺️ discord:lunazea#5017
 
-🗺️ email:lunazea@protonmail.com
-
-
 <p align="left">
 </p>
 
