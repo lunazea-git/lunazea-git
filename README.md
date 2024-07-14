@@ -25,7 +25,7 @@ my name is Michal and I come from Poland 🇵🇱
 
 ⚙️ creating and managing networks {small to medium advanced}
 
-⚙️ apache server support
+⚙️ nginx apache server support
 
 ⚙️ creating system scripts {on linux} to automate tasks
 
