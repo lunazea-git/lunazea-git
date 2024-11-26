@@ -29,10 +29,6 @@ my name is Michal and I come from Poland 🇵🇱
 
 ⚙️ creating system scripts {on linux} to automate tasks
 
-<h1>you can contact me through:</h1>
-
-🗺️ telegram https://t.me/lunazea
-
 <p align="left">
 </p>
 
